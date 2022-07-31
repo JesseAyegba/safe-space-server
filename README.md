@@ -2,7 +2,7 @@
 
 This repository represents server-side implementation of Safe space (a cloud storage platform).
 It utilizes technologies like Node JS, Express and Typescript and is expected to be deployed
-to a worker node in a kubernetes cluster served from AWS.
+to a worker node of a kubernetes cluster served from AWS.
 
 ## Getting this project to work🚀🧑‍🚀
 
